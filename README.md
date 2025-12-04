@@ -1,6 +1,6 @@
 # BUG-HUNTER
 Bug Hunter Arena is an interactive debugging game where players find bugs in code snippets across 3 difficulty levels. Features include: live scoring with streak bonuses, 3-life system, real-time timer, and instant feedback with explanations. Built with React, it teaches syntax, logic, and runtime errors through gamified challenges 
-# 🐛 Bug Hunter Arena - Complete Description
+# 🐛 Bug Hunter Arena - Complete Description link https://bug-hunter-arena.lovable.app/
 
 ## 📋 **Overview**
 Bug Hunter Arena is an **interactive debugging game** designed to teach and test programming skills through gamified code challenges. Players hunt for bugs in real code snippets, learning to identify common programming errors while racing against time and building scoring streaks.
